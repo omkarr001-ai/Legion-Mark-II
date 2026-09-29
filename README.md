@@ -38,16 +38,11 @@ Legion Mark-II is a hybrid robotic platform designed for exploration of difficul
 Legion-Mark-II/
 ├── legionEYE/
 │   └── legionEYE.ino
+├── hardware/
+│   └── circuit-diagrams/
+├── mechanical/
+│   └── 3D-models/
+├── media/
 ├── Mainframe_html.html
+├── Project_Legion_Technical_Article.md
 └── README.md
-## 🏆 Achievements
-
-- Top 5 Finalist — Build With Bharat 2.0, NIT Delhi
-- 3rd Prize — Hackrobo 1.0, Pillai
-- Finalist — GMRT Science Exhibition 2026
-
-## 🔮 Future Development
-
-- Enhanced environmental mapping
-- Additional sensing capabilities
-- Further development toward autonomous navigation
